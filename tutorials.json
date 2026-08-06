@@ -1,6 +1,7 @@
 [
   { "ep": 1, "bot": "general", "title": "เริ่มต้นใช้งาน PD App — ติดตั้ง", "url": "https://www.youtube.com/watch?v=j7I_1TpRwGI" },
   { "ep": 2, "bot": "general", "title": "สอนเชื่อมต่อ + ตั้งค่า PD App (ล่าสุด)", "url": "https://youtu.be/4Opg2_qT4tM" },
-  { "ep": 3, "bot": "cartoon", "title": "สอนใช้บอทการ์ตูน PD Cartoon Story — ครบวงจร 1 คลิกจบ", "url": "https://www.youtube.com/watch?v=Dn9cw9Nk5_I" },
-  { "ep": 4, "bot": "storymix", "title": "สอนใช้ PD Story mix — Storyboard เป็นคลิป + โหมดหนัง", "url": "https://youtu.be/DKhZzkx4qYE" }
+  { "ep": 3, "bot": "flow", "title": "สอนใช้บอท PD Auto Flow — เจนคลิป + โพสต์ปักตะกร้า", "url": "https://youtu.be/gHfln1xJELg" },
+  { "ep": 4, "bot": "storymix", "title": "สอนใช้ PD Story mix — Storyboard เป็นคลิป + โหมดหนัง", "url": "https://youtu.be/DKhZzkx4qYE" },
+  { "ep": 5, "bot": "cartoon", "title": "สอนใช้บอทการ์ตูน PD Cartoon Story — ครบวงจร 1 คลิกจบ", "url": "https://www.youtube.com/watch?v=Dn9cw9Nk5_I" }
 ]
