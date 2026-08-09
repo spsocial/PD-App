@@ -1,9 +1,44 @@
 [
-  { "ep": 1, "bot": "general", "title": "เริ่มต้นใช้งาน PD App — ติดตั้ง", "url": "https://www.youtube.com/watch?v=j7I_1TpRwGI" },
-  { "ep": 2, "bot": "general", "title": "สอนเชื่อมต่อ + ตั้งค่า PD App (ล่าสุด)", "url": "https://youtu.be/4Opg2_qT4tM" },
-  { "ep": 3, "bot": "general", "title": "สอนดึงสินค้าเข้าคลัง — โหมด Shop (ใช้ได้ทุกบอท)", "url": "https://youtu.be/V7h31805-aM" },
-  { "ep": 4, "bot": "general", "title": "สอนใช้โหมด Post — โพสต์คลิปอัตโนมัติ (ใช้ได้ทุกบอท)", "url": "https://youtu.be/ZM5K7kl9V8M" },
-  { "ep": 5, "bot": "flow", "title": "สอนใช้บอท PD Auto Flow — เจนคลิป + โพสต์ปักตะกร้า", "url": "https://youtu.be/gHfln1xJELg" },
-  { "ep": 6, "bot": "storymix", "title": "สอนใช้ PD Story mix — Storyboard เป็นคลิป + โหมดหนัง", "url": "https://youtu.be/1ibXsXGlaW0" },
-  { "ep": 7, "bot": "cartoon", "title": "สอนใช้บอทการ์ตูน PD Cartoon Story — ครบวงจร 1 คลิกจบ", "url": "https://www.youtube.com/watch?v=Dn9cw9Nk5_I" }
+  {
+    "ep": 1,
+    "bot": "general",
+    "title": "เริ่มต้นใช้งาน PD App — ติดตั้ง",
+    "url": "https://www.youtube.com/watch?v=j7I_1TpRwGI"
+  },
+  {
+    "ep": 2,
+    "bot": "general",
+    "title": "สอนเชื่อมต่อ + ตั้งค่า PD App (ล่าสุด)",
+    "url": "https://youtu.be/4Opg2_qT4tM"
+  },
+  {
+    "ep": 3,
+    "bot": "general",
+    "title": "สอนดึงสินค้าเข้าคลัง — โหมด Shop (ใช้ได้ทุกบอท)",
+    "url": "https://youtu.be/V7h31805-aM"
+  },
+  {
+    "ep": 4,
+    "bot": "general",
+    "title": "สอนใช้โหมด Post — โพสต์คลิปอัตโนมัติ (ใช้ได้ทุกบอท)",
+    "url": "https://youtu.be/ZM5K7kl9V8M"
+  },
+  {
+    "ep": 5,
+    "bot": "flow",
+    "title": "สอนใช้บอท PD Auto Flow — เจนคลิป + โพสต์ปักตะกร้า",
+    "url": "https://youtu.be/gHfln1xJELg"
+  },
+  {
+    "ep": 6,
+    "bot": "storymix",
+    "title": "สอนใช้ PD Story mix — Storyboard เป็นคลิป + โหมดหนัง",
+    "url": "https://youtu.be/epyudkfnB6M"
+  },
+  {
+    "ep": 7,
+    "bot": "cartoon",
+    "title": "สอนใช้บอทการ์ตูน PD Cartoon Story — ครบวงจร 1 คลิกจบ",
+    "url": "https://www.youtube.com/watch?v=Dn9cw9Nk5_I"
+  }
 ]
